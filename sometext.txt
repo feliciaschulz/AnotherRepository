@@ -1,1 +1,2 @@
-Hello, this is a line in my new repository.
+Hello hello this is a clash
+This example text should be merged now.
